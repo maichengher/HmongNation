@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.nav {
+padding-top:2rem;
+padding-bottom:2rem;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-link:hover{
+    color: grey;
+}
+
+.explore {
+    color:purple;
+    font-weight: bolder;
+}
+
+.explore:hover{
+    color: rgb(151, 39, 151);
+}
+
+/* slide show */
+.slide-show-container {
+    max-width: 100%;
+    position: relative;
+    margin: 0;
+  }
+
+  .mySlides {
+    display: none;
+  }
+
+/* styling the images */
+.img-slide {
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.purpose {
+  padding: 5rem 5rem;
+  background-color: rgb(131, 40, 131);
+  color:white;
+
+}
+
+.purpose-bold {
+  color: whitesmoke;
+  font-weight: lighter;
+  font-size: 36px;
+  text-align: center;
+  
+  
+}
+
+.button-div {
+  padding: 5rem;
+  text-align: center;
+}
+
+
+
+.btn a {
+  text-decoration: none;
+  color: black;
+  
+  
+}
+
+.btn a:hover{
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
+  
